@@ -54,3 +54,34 @@ body{
 	margin-top: 2px;
 	width: 10%;
 }
+.box__profile{
+	margin-top: 2rem;
+	background-color: #d64161;
+}
+
+.box__heart{
+	display: block;
+	float: left;
+	font-size: 1.15rem;
+	margin-top: 0.1rem;
+	margin-left: 18rem;
+	padding-right: 0;
+	color: #464140;
+	cursor: pointer;
+	
+}
+
+.box__heart--red{
+	color: red;	
+}
+
+.box__trash{
+	padding-left: 2rem;
+	display: block;
+	float: left;
+	font-size: 1.15rem;
+	color: #464140;
+	padding-bottom: 1rem;
+	cursor: pointer;
+
+}
