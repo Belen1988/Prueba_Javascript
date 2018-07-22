@@ -1,0 +1,56 @@
+body{
+	margin:0;
+	padding: 0;
+	background-color: grey;
+}
+
+.header{
+	background-color: #6b5b95;
+	height: 6rem;
+
+}
+
+.header__logo--image{
+	width: 10rem;
+	display: block;
+}
+.header__title{
+	font-family: font-family: 'Indie Flower', cursive;
+	float: left;
+	display: block;
+	margin-left: 11rem;
+	margin-top: -6rem;
+	color: white;
+}
+.sidebar{
+	margin-top: 6rem;
+	background-color: #feb236;
+}
+
+.main{
+	margin-top: 6rem;
+	background-color: #ff7b25;
+
+}
+.form__profile{
+	margin-left: 10rem;
+	margin-top: 5rem;
+
+}
+
+.form__file{
+	margin-left: 4rem;
+	margin-top: 2rem;
+}
+.form__text{
+	margin-left: 6rem;
+	margin-top: 2rem;
+	width: 70%;
+	height: 6rem;
+}
+.box__avatar{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2px;
+	width: 10%;
+}
