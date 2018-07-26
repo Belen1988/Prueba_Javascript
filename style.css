@@ -64,11 +64,13 @@ body{
 	background-color: #d64161;
 	padding-top: 1rem;
 	padding-bottom: 2rem;
-	
+	padding-left: 1rem;
+	padding-right: 0.5rem;
+	border-radius: 10px;
+	border:2px;
+	border-color: #ff7b25;
 }
-.p{
-	margin-bottom: 1rem;
-}
+
 
 .box__heart{
 	display: block;
@@ -79,7 +81,6 @@ body{
 	padding-right: 0;
 	color: #464140;
 	cursor: pointer;
-	
 }
 
 .box__heart--red{
