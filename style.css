@@ -62,7 +62,12 @@ body{
 .box__profile{
 	margin-top: 2rem;
 	background-color: #d64161;
+	padding-top: 1rem;
+	padding-bottom: 2rem;
 	
+}
+.p{
+	margin-bottom: 1rem;
 }
 
 .box__heart{
